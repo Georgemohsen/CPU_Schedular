@@ -1,0 +1,9 @@
+C:\Users\uSER\Documents\Visual Studio 2012\Projects\DataGrid\DataGrid\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+C:\Users\uSER\Documents\Visual Studio 2012\Projects\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+C:\Users\uSER\Documents\Visual Studio 2012\Projects\DataGrid\DataGrid\obj\Debug\CPU_Schedular.Properties.Resources.resources
+C:\Users\uSER\Documents\Visual Studio 2012\Projects\DataGrid\DataGrid\bin\Debug\CPU_Schedular.exe.config
+C:\Users\uSER\Documents\Visual Studio 2012\Projects\DataGrid\DataGrid\bin\Debug\CPU_Schedular.exe
+C:\Users\uSER\Documents\Visual Studio 2012\Projects\DataGrid\DataGrid\bin\Debug\CPU_Schedular.pdb
+C:\Users\uSER\Documents\Visual Studio 2012\Projects\DataGrid\DataGrid\obj\Debug\CPU_Schedular.exe
+C:\Users\uSER\Documents\Visual Studio 2012\Projects\DataGrid\DataGrid\obj\Debug\CPU_Schedular.pdb
+C:\Users\uSER\Documents\Visual Studio 2012\Projects\DataGrid\DataGrid\obj\Debug\CPU_Schedular.Form1.resources
